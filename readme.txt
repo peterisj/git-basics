@@ -1,0 +1,3 @@
+Git Pamati
+
+Tikai eksperiments
