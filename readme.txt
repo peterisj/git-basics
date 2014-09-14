@@ -1,3 +1,3 @@
 Git Pamati
 
-Tikai eksperiments
+Tikai eksperiments !
